@@ -1,0 +1,5 @@
+api key = 'fyEB5lxflrznmEuJmGsPyyMneTyjSqzn8kgHKHvSTxD0lwEai7'
+API url	= https://plant.id/api/v3
+
+
+api-2='sk-nhkg65fea3d9de5a34836'
